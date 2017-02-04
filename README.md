@@ -16,6 +16,11 @@
 - TeXstudio
 - Latexian (Mac版)
 
+## 线上LaTeX平台
+
+- [Overleaf](https://www.overleaf.com/): 支持链接多人分享，Git版本控制。
+- [ShareLaTeX](https://www.sharelatex.com/): 支持链接多人分享，Git版本控制，有开源平台。
+
 ## TeX入门资料
 
 - 一份不太简短的 LaTeX2ε 介绍（[lshort-zh-cn](http://mirrors.ctan.org/info/lshort/chinese/lshort-zh-cn.pdf)） 2016 年新版
