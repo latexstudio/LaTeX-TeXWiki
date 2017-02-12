@@ -1,5 +1,10 @@
 # LaTeXStudio 知识王国
 
+## 项目交流
+
+- 交流QQ群：91940767
+- 资源站点：[LaTeX工作室](http://www.latexstudio.net)
+
 ## TeX发行套装
 
 - TeXLive (由国际 TeX用户组织TUG发的 TeX 系统，支持不同的操作系统平台。)，推荐使用，适用于Windows，Linux平台[下载地址](http://tug.org/texlive/acquire-netinstall.html)，[种子下载](http://www.latexstudio.net/wp-content/uploads/texlive2016/texlive2016.iso.torrent)。
@@ -52,6 +57,7 @@
 ### 国内高校模板
 
 - [清华大学](https://github.com/xueruini/thuthesis)
+- [北京大学](http://www.latexstudio.net/archives/3828)
 - [中国科学技术大学](https://github.com/ustctug/ustcthesis)
 
 ### 期刊编辑模板
