@@ -7,20 +7,18 @@
 
 ## TeX发行套装
 
-- TeXLive (由国际 TeX用户组织TUG发的 TeX 系统，支持不同的操作系统平台。)，推荐使用，适用于Windows，Linux平台[下载地址](http://tug.org/texlive/acquire-netinstall.html)，[种子下载](http://www.latexstudio.net/wp-content/uploads/texlive2016/texlive2016.iso.torrent)。
+- TeXLive--(由国际 TeX用户组织TUG发的 TeX 系统，支持不同的操作系统平台。)，推荐使用，适用于Windows，Linux平台[下载地址](http://tug.org/texlive/acquire-netinstall.html)，[种子下载](http://www.latexstudio.net/wp-content/uploads/texlive2016/texlive2016.iso.torrent)。安装教程：[Linux 系统下原版 texlive 2016 的安装与配置](http://www.latexstudio.net/archives/8806)，[TeXLive安装过程演示](http://www.latexstudio.net/archives/2574)，[Windows下的安装与配置](http://www.latexstudio.net/archives/4816)；
 
-- MacTeX，适用于MacOS，[下载地址](http://tug.org/mactex/)，新手下载完整版本，不要下载smller版本。 
-- TeXLive(由国际 TeX用户组织TUG发的 TeX 系统，支持不同的操作系统平台。)，推荐使用，适用于Windows，Linux平台[下载地址](http://tug.org/texlive/acquire-netinstall.html)，[种子下载](http://www.latexstudio.net/wp-content/uploads/texlive2016/texlive2016.iso.torrent)。
+- MacTeX，适用于MacOS，[下载地址](http://tug.org/mactex/)，新手下载完整版本，不要下载smaller版本；
 
-- MacTeX，适用于MacOS，[下载地址](http://tug.org/mactex/)，新手下载完整版本，不要下载smaller版本。
+- MikTeX，适用于Windows平台，[下载地址](https://miktex.org/)，同样，新手下载使用完整版本，不要下载试用basic版本；
 
-- MikTeX，适用于Windows平台，[下载地址](https://miktex.org/)，同样，新手下载使用完整版本，不要下载试用basic版本。
 - 其他版本，如[proTeXt](http://tug.org/protext/)是封装了MikTeX并把TeXStudio作为前端编辑器。[CTeX](http://www.ctex.org)封装了MikTeX，集成了编辑器 WinEdt 和 PostScript处理软件 Ghostscript 和 GSview 等主要工具。 CTeX 中文套装在 MiKTeX 的基础上增加了对中文的完整支持。 尤其是老的中文支持方式如 CJK, CCT等多种中文TeX处理方式，不作为主推版本使用，适合特定环境下使用。
 
 > 注意：以上版本在一个平台上只能安装一个发行版，请勿随意安装。
 
 ## TeX编辑器
-- WinEdt，商业收费版本，推荐购买，[官网](http://www.winedt.com)
+- WinEdt，收费软件，推荐购买后使用，[官网](http://www.winedt.com)
 - TeXworks，常见的TeX套装都自带这款编辑器，界面比较清爽。
 - TeXShop (Mac版)，MacTeX自带的编辑器，界面比较简洁。
 - TeXstudio，开源免费编辑器，针对日常使用，界面做了友好的设计，推荐使用，[这里下载](http://texstudio.sourceforge.net/)
@@ -47,6 +45,119 @@
 - [奥本大学视频教程](http://www.eng.auburn.edu/~reevesj/Classes/ELEC6970-latex/)
 - [2013台湾国立清华大学LaTeX研习视频教程-蔡炎龙](http://www.latexstudio.net/archives/2927)
 
+##TeX绘图
+
+### PGF/TikZ
+
+- [pgf](https://sourceforge.net/projects/pgf/)  - Code, releases, support and bug reports
+- [pgf](https://www.ctan.org/pkg/pgf)         - Latest version release
+- [pgf-users](https://sourceforge.net/p/pgf/mailman/pgf-users/)  - A friendly and relatively active mailing list.
+
+### PGFPlots
+
+- [http://pgfplots.sourceforge.net/](pgfplots)
+- [https://www.ctan.org/pkg/pgfplots](pgfplots)
+
+#### 参考资料与说明手册
+
+- [pgfmanual.pdf](http://mirrors.ctan.org/graphics/pgf/base/doc/pgfmanual.pdf)       - About 1200 pages, 300 of which contains the core concepts
+- [pgfplots.pdf](http://mirrors.ctan.org/graphics/pgf/contrib/pgfplots/doc/pgfplots.pdf)  - About 560 pages
+- [visualtikz](https://www.ctan.org/pkg/visualtikz)       - Visual help for TikZ based on images with minimum text
+- [PGF/TikZWiki](https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ)   - A short tutorial from wikibooks
+- [minimaltikz.pdf](http://cremeronline.com/LaTeX/minimaltikz.pdf)      - A very minimal introduction to TikZ
+
+#### PGF&TiKZ样例库
+
+- [texample](http://www.texample.net/tikz/)  - Gallery of wonderful examples made by TikZ
+- [pgfplots.net](http://pgfplots.net/)
+- [https://github.com/walmes/Tikz](https://github.com/walmes/Tikz)  - Collection of TikZ art from Prof. Walmes M. Zeviani,
+  contains about 200 TikZ figures, most of which were done to teach statistics
+- [https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz](https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz)  - Contains about 350 TikZ examples from Martin
+  Thoma
+- [https://tex.stackexchange.com/questions/158668/nice-scientific-pictures-show-off]()    - Contains some really nice TikZ examples, together
+  with pictures drawn by other TeX friends
+- [https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex]()       - Contains lovely code to make a heart by LaTeX/TikZ
+
+#### PGF&TiKZ绘图辅助工具
+
+- [http://www.tikzedt.org/](http://www.tikzedt.org/)          - A combined WYSIWYG/text editor designed for editing Tikz code
+- [https://github.com/fhackenberger/ktikz](https://github.com/fhackenberger/ktikz)            - Provides a nice user interface for making pictures using TikZ
+- [https://sourceforge.net/projects/gratex/](https://sourceforge.net/projects/gratex/)           - Visual graph creator for LaTeX (PGF & TikZ)
+- [https://github.com/matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)      - Converts MATLAB®/Octave figures to TikZ/pgfplots figures
+- [https://github.com/nschloe/matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz)  - Convert matplotlib figure and spits out a TikZ/PGFplots figure
+
+####  PGF&TiKZ绘图库
+
+- [aobs-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/aobs-tikz)        - TikZ styles for creating overlaid pictures in beamer
+- [battleship](http://www.ctan.org/tex-archive/graphics/pgf/contrib/battleship)       - A style file for typesetting Battleship logic puzzles
+- [binarytree](http://www.ctan.org/tex-archive/graphics/pgf/contrib/binarytree)       - Drawing binary trees using TikZ
+- [blochsphere](http://www.ctan.org/tex-archive/graphics/pgf/contrib/blochsphere)     - Draw pseudo-3D diagrams of Bloch spheres
+- [bloques](http://www.ctan.org/tex-archive/graphics/pgf/contrib/bloques)        - Generate control diagrams
+- [blox](http://www.ctan.org/tex-archive/graphics/pgf/contrib/blox)           - Draw block diagrams, using TikZ
+- [bodegraph](http://www.ctan.org/tex-archive/graphics/pgf/contrib/bodegraph)      - Draw Bode, Nyquist and Black plots with gnuplot and TikZ
+- [braids](http://www.ctan.org/tex-archive/graphics/pgf/contrib/braids)         - Draw braid diagrams with PGF/TikZ
+- [celtic](http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic)         - A TikZ library for drawing celtic knots
+- [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz)     - Draw electrical networks with TikZ
+- [fast-diagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram)   - Easy generation of FAST diagrams
+- [flowchart](http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart)      - Shapes for drawing flowcharts, using TikZ
+- [forest](http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest)         - Drawing (linguistic) trees
+- [grafcet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet)        - Draw Grafcet/SFC with TikZ
+- [harveyballs](http://www.ctan.org/tex-archive/graphics/pgf/contrib/harveyballs)    - Create Harvey Balls using TikZ
+- [hf-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz)        - A simple way to highlight formulas and formula parts
+- [hobby](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby)          - An implementation of Hobby’s algorithm for PGF/TikZ
+- [karnaugh-map](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaugh-map)   - LATEX package for drawing karnaugh maps with up to 6 variables
+- [karnaughmap](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaughmap)    - Typeset Karnaugh maps
+- [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle)    - Typeset (grid-based) logic puzzles
+- [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape)      - Declare new PGF shapes
+- [neuralnetwork](http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork)  - Graph-drawing for neural networks
+- [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur)       - PGF/TikZ package for "blurred" shadows
+- [pgf-pie](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie)        - Draw pie charts, using PGF
+- [pgf-soroban](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban)    - Create images of the soroban using TikZ/PGF
+- [pgf-spectra](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-spectra)    - Draw continuous or discrete spectra using PGF/TikZ
+- [pgf-umlcd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlcd)      - Some LATEX macros for UML Class Diagrams
+- [pgf-umlsd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlsd)      - Draw UML Sequence Diagrams
+- [pgfgantt](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfgantt)       - Draw Gantt charts with TikZ
+- [pgfplots](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfplots)       - Loads, rounds, formats and postprocesses numerical tables
+- [prooftrees](http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees)     - Forest-based proof trees (symbolic logic)
+- [pxpgfmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark)      - e-pTEX driver for PGF inter-picture connections
+- [reotex](http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex)         - Draw Reo Channels and Circuits
+- [rulercompass](http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass)   - A TikZ library for straight-edge and compass diagrams
+- [sa-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz)        - TikZ library to draw switching architectures
+- [schemabloc](http://www.ctan.org/tex-archive/graphics/pgf/contrib/schemabloc)     - Draw block diagrams, using TikZ
+- [scsnowman](http://www.ctan.org/tex-archive/graphics/pgf/contrib/scsnowman)      - Snowman variants using TikZ
+- [setdeck](http://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck)        - Typeset cards for Set
+- [smartdiagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/smartdiagram)   - Generate diagrams from lists
+- [spath3](http://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3)         - Manipulate “soft paths” in PGF
+- [stanli](http://www.ctan.org/tex-archive/graphics/pgf/contrib/stanli)         - TikZ Library for Structural Analysis
+- [ticollege](http://www.ctan.org/tex-archive/graphics/pgf/contrib/ticollege)      - Graphical representation of keys on a standard scientific calculator
+- [tikz-3dplot](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-3dplot)    - Coordinate transformation styles for 3d plotting in TikZ
+- [tikz-bayesnet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-bayesnet)  - Draw Bayesian networks, graphical models and directed factor graphs
+- [tikz-cd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-cd)        - Create commutative diagrams with TikZ
+- [tikz-dependency](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dependency)- A library for drawing dependency graphs
+- [tikz-dimline](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dimline)   - Technical dimension lines using PGF/TikZ
+- [tikz-feynman](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-feynman)   - Feynman diagrams with TikZ
+- [tikz-inet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-inet)      - Draw interaction nets with TikZ
+- [tikz-opm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm)       - Typeset OPM diagrams
+- [tikz-optics](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-optics)    - A library for drawing optical setups with TikZ
+- [tikz-page](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-page)      - Small macro to help building nice and complex layout materials
+- [tikz-palattice](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-palattice) - Draw particle accelerator lattices with TikZ
+- [tikz-qtree](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree)     - Use existing qtree syntax for trees in TikZ
+- [tikz-timing](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-timing)    - Easy generation of timing diagrams as TikZ pictures
+- [tikzinclude](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude)    - Import TikZ images from colletions
+- [tikzmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzmark)       - Use TikZ's method of remembering a position on a page
+- [tikzorbital](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzorbital)    - Atomic and molecular orbitals using TikZ
+- [tikzpagenodes](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpagenodes)  - A single TikZ node for the whole page
+- [tikzpeople](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpeople)     - Draw people-shaped nodes in TikZ
+- [tikzpfeile](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpfeile)     - Draw arrows using PGF/TikZ
+- [tikzposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzposter)     - Create scientific posters using TikZ
+- [tikzscale](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzscale)      - Resize pictures while respecting text size
+- [tikzsymbols](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzsymbols)    - Some symbols created using TikZ
+- [timing-diagrams](http://www.ctan.org/tex-archive/graphics/pgf/contrib/timing-diagrams)- Draw timing diagrams
+- [tipfr](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tipfr)          - Produces calculator's keys with the help of TikZ
+- [tkz-berge](https://www.ctan.org/pkg/tkz-berge)      - Macros for drawing graphs of graph theory
+- [tkz-orm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm)        - Create Object-Role Model (ORM) diagrams
+- [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter)     - Create beautiful scientific Persian/Latin posters using TikZ
+ 
 
 ## TeX辅助工具
 
@@ -110,3 +221,8 @@ LaTeX3 的开发正在进行中，其底层接口已经相对成熟和稳定。x
 - source3，这是 LATEX3 的实现
 
 ## 常见问题
+
+
+##License
+
+[https://creativecommons.org/licenses/by/4.0/]
