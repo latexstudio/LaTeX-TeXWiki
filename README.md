@@ -16,9 +16,9 @@
 
 ## TeX编辑器
 - WinEdt，商业收费版本，推荐购买，[官网](http://www.winedt.com)
-- TeXworks，一般TeX套装都自带了这一编辑器，界面比较简洁清爽。
-- TeXShop (Mac版)，MacTeX自带的编辑器。
-- TeXstudio，开源免费编辑器，针对日常使用，界面做了友好的设计，推荐使用，[这里下载]（http://texstudio.sourceforge.net/）
+- TeXworks，常见的TeX套装都自带这款编辑器，界面比较清爽。
+- TeXShop (Mac版)，MacTeX自带的编辑器，界面比较简洁。
+- TeXstudio，开源免费编辑器，针对日常使用，界面做了友好的设计，推荐使用，[这里下载](http://texstudio.sourceforge.net/)
 - Latexian (Mac版)
 
 ## 线上LaTeX平台
