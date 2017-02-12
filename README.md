@@ -38,9 +38,16 @@
 
 ## TeX视频教程
 
+- [淘宝视频教程](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-1145213607.10.IamDUv&id=43823508044)
+- [奥本大学视频教程](http://www.eng.auburn.edu/~reevesj/Classes/ELEC6970-latex/)
+- [2013台湾国立清华大学LaTeX研习视频教程-蔡炎龙](http://www.latexstudio.net/archives/2927)
+
+
 ## TeX辅助工具
 
+
 ## TeX系列模板
+
 
 ### 国内高校模板
 
