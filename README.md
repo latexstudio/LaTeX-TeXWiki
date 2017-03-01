@@ -205,7 +205,10 @@
 - [中国科学院大学](https://github.com/mohuangrui/ucasthesis)
 - [中国人民大学](https://github.com/ZebinWang/ructhesis)
 
+### 国外高校模板
 
+- [剑桥大学](https://github.com/kks32/phd-thesis-template)
+ 
 ### 期刊编辑模板
 
 - [zepinglee/gbt-7714-2015-bibtex-style](https://github.com/zepinglee/gbt-7714-2015)
