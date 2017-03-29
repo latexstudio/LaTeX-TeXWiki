@@ -172,6 +172,7 @@
 
 ### 国内高校模板
 
+<<<<<<< HEAD
 - [北京大学](http://www.latexstudio.net/archives/3828)
 - [中国科学技术大学](https://github.com/ustctug/ustcthesis)
 - [重庆大学](https://github.com/nanmu42/CQUThesis)
@@ -209,12 +210,54 @@
 - [南方科技大学](https://github.com/SUSTC/sustcthesis)
 
 
+=======
+- [北京大学](https://github.com/CasperVector/pkuthss)
+- [北京航空航天大学](https://github.com/BHOSC/BUAAthesis)
+- [北京邮电大学](https://github.com/wolfbrother/PhD-Thesis--LaTeX-Template-for-BUPT)
+- [重庆大学](https://github.com/nanmu42/CQUThesis)
+- [大连理工大学](https://github.com/Khaos/DLUTThesis)
+- [电子科技大学](https://github.com/shifujun/UESTCthesis)
+- [东南大学](https://github.com/zhimengfan1990/seuthesix)
+- [哈尔滨工业大学](https://github.com/dustincys/PlutoThesis)
+- [华南理工大学](https://github.com/alwintsui/scutthesis)
+- [华南师范大学](https://github.com/scnu/scnuthesis)
+- [华中科技大学](https://github.com/hust-latex/hustthesis)
+- [暨南大学](https://github.com/ytZhou/JNUMasterThesis)
+- [南方科技大学](https://github.com/SUSTC/sustcthesis)
+- [南京大学](https://github.com/Haixing-Hu/nju-thesis)
+- [南京理工大学](https://github.com/jiec827/njustThesis)
+- [内蒙古大学](https://github.com/friskit-china/imuthesis)
+- [清华大学](https://github.com/xueruini/thuthesis)
+- [山东大学](https://github.com/Liam0205/sduthesis)
+- [上海交通大学](https://github.com/weijianwen/SJTUThesis)
+- [深圳大学](https://github.com/clinyong/latex-szu)
+- [四川大学](https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate)
+- [台湾大学](https://github.com/tzhuan/ntu-thesis)
+- [台湾国立成功大学](https://github.com/wengan-li/ncku-thesis-template-latex)
+- [武汉理工大学](https://github.com/tsaoyu/WHUT-LaTeX-bachelor)
+- [西安电子科技大学](https://github.com/StickCui/XDUthesis-personal)
+- [西安交通大学](https://github.com/Aetf/xjtuthesis) [xjtuthesis-x](https://github.com/Tedxz/xjtuthesis-x/)
+- [西北工业大学](https://github.com/lrtfm/nputhesis)
+- [厦门大学](https://github.com/xiamenwcy/LaTeXFileforXMUThesis)
+- [浙江大学](https://github.com/ZJU-Awesome/write_with_LaTeX)
+- [郑州大学](https://github.com/tuxify/zzuthesis)
+- [中国科学技术大学](https://github.com/ustctug/ustcthesis)
+- [中国科学院大学](https://github.com/mohuangrui/ucasthesis)
+- [中国人民大学](https://github.com/ZebinWang/ructhesis)
+>>>>>>> origin/master
 
+### 国外高校模板
+
+- [剑桥大学](https://github.com/kks32/phd-thesis-template)
+ 
 ### 期刊编辑模板
 
-- [GB/T 7714-2015 BibTeX Style](https://github.com/zepinglee/gbt-7714-2015)
-
-- [GB/T 7714-2015 BibLaTeX Style](https://github.com/hushidong/biblatex-gb7714-2015)
+- [zepinglee/gbt-7714-2015-bibtex-style](https://github.com/zepinglee/gbt-7714-2015)
+- [hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015)
+- [Haixing-Hu/GBT7714-2005-BibTeX-Style](https://github.com/Haixing-Hu/GBT7714-2005-BibTeX-Style)
+- [szsdk/biblatex-gbt77142005](https://github.com/szsdk/biblatex-gbt77142005)
+- [吴凯 GBT7714-2005.bst](http://bbs.ctex.org/forum.php?mod=viewthread&tid=33591)
+- [CasperVector/biblatex-caspervector](https://github.com/CasperVector/biblatex-caspervector)
 
 ### beamer模板
 
