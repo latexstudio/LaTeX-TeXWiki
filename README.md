@@ -11,24 +11,24 @@
 
 ## TeX发行套装
 
-- TeXLive--(由国际 TeX用户组织TUG发的 TeX 系统，支持不同的操作系统平台。)，推荐使用，适用于Windows，Linux平台[下载地址](http://tug.org/texlive/acquire-netinstall.html)，[种子下载](http://www.latexstudio.net/wp-content/uploads/texlive2016/texlive2016.iso.torrent)。安装教程：[Linux 系统下原版 texlive 2016 的安装与配置](http://www.latexstudio.net/archives/8806)，[TeXLive安装过程演示](http://www.latexstudio.net/archives/2574)，[Windows下的安装与配置](http://www.latexstudio.net/archives/4816)；
+- TeXLive -(由国际 TeX用户组织TUG发的 TeX 系统，支持不同的操作系统平台。)，推荐使用，适用于Windows，Linux平台[下载地址](http://tug.org/texlive/acquire-netinstall.html)，[种子下载](http://www.latexstudio.net/wp-content/uploads/texlive2016/texlive2016.iso.torrent)。安装教程：[Linux 系统下原版 texlive 2016 的安装与配置](http://www.latexstudio.net/archives/8806)，[TeXLive安装过程演示](http://www.latexstudio.net/archives/2574)，[Windows下的安装与配置](http://www.latexstudio.net/archives/4816)；
 
-- MacTeX，适用于MacOS，[下载地址](http://tug.org/mactex/)，新手下载完整版本，不要下载smaller版本；
+- MacTeX -适用于MacOS，[下载地址](http://tug.org/mactex/)，新手下载完整版本，不要下载smaller版本；
 
-- MikTeX，适用于Windows平台，[下载地址](https://miktex.org/)，同样，新手下载使用完整版本，不要下载试用basic版本；
+- MikTeX -适用于Windows平台，[下载地址](https://miktex.org/)，同样，新手下载使用完整版本，不要下载试用basic版本；
 
-- 其他版本，如[proTeXt](http://tug.org/protext/)是封装了MikTeX并把TeXStudio作为前端编辑器。[CTeX](http://www.ctex.org)封装了MikTeX，集成了编辑器 WinEdt 和 PostScript处理软件 Ghostscript 和 GSview 等主要工具。 CTeX 中文套装在 MiKTeX 的基础上增加了对中文的完整支持。 尤其是老的中文支持方式如 CJK, CCT等多种中文TeX处理方式，不作为主推版本使用，适合特定环境下使用。
+- 其他版本 -如[proTeXt](http://tug.org/protext/)是封装了MikTeX并把TeXStudio作为前端编辑器。[CTeX](http://www.ctex.org)封装了MikTeX，集成了编辑器 WinEdt 和 PostScript处理软件 Ghostscript 和 GSview 等主要工具。 CTeX 中文套装在 MiKTeX 的基础上增加了对中文的完整支持。 尤其是老的中文支持方式如 CJK, CCT等多种中文TeX处理方式，不作为主推版本使用，适合特定环境下使用。
 
 > 注意：以上版本在一个平台上只能安装一个发行版，请勿随意安装。
 
 ## TeX编辑器
-- WinEdt，收费软件，推荐购买后使用，[官网](http://www.winedt.com)
-- TeXworks，常见的TeX套装都自带这款编辑器，界面比较清爽。
-- TeXShop (Mac版)，MacTeX自带的编辑器，界面比较简洁。
-- TeXstudio，开源免费编辑器，针对日常使用，界面做了友好的设计，推荐使用，[这里下载](http://texstudio.sourceforge.net/)
-- Latexian (Mac版)
+- WinEdt -收费软件，推荐购买后使用，[官网](http://www.winedt.com)
+- TeXworks -常见的TeX套装都自带这款编辑器，界面比较清爽。
+- TeXShop(Mac版) -MacTeX自带的编辑器，界面比较简洁。
+- TeXstudio -开源免费编辑器，针对日常使用，界面做了友好的设计，推荐使用，[这里下载](http://texstudio.sourceforge.net/)
+- Latexian(Mac版)
 
-## 线上LaTeX平台
+## 在线LaTeX平台
 
 - [Overleaf](https://www.overleaf.com/): 支持链接多人分享，Git版本控制。
 - [ShareLaTeX](https://www.sharelatex.com/): 支持链接多人分享，Git版本控制，有开源平台。
@@ -161,25 +161,64 @@
 - [tkz-berge](https://www.ctan.org/pkg/tkz-berge)      - Macros for drawing graphs of graph theory
 - [tkz-orm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm)        - Create Object-Role Model (ORM) diagrams
 - [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter)     - Create beautiful scientific Persian/Latin posters using TikZ
- 
+- [tikz-penciline](https://github.com/renard/tikz-penciline)  - Simulate hand drawing in LaTeX PGF/TikZ
+
 
 ## TeX辅助工具
-
+- [EXCEL2LaTeX](http://ctan.org/pkg/excel2latex) - Excel表格转换为LaTeX代码。
 
 ## TeX系列模板
 
 
 ### 国内高校模板
 
-- [清华大学](https://github.com/xueruini/thuthesis)
 - [北京大学](http://www.latexstudio.net/archives/3828)
 - [中国科学技术大学](https://github.com/ustctug/ustcthesis)
+- [重庆大学](https://github.com/nanmu42/CQUThesis)
+- [上海交通大学](https://github.com/weijianwen/SJTUThesis)
+- [华南师范大学](https://github.com/scnu/scnuthesis)
+- [华中科技大学](https://github.com/hust-latex/hustthesis)
+- [北京航空航天大学](https://github.com/BHOSC/BUAAthesis)
+- [电子科技大学](https://github.com/shifujun/UESTCthesis)
+- [清华大学](https://github.com/xueruini/thuthesis)
+- [台湾大学](https://github.com/tzhuan/ntu-thesis)
+- [南京大学](https://github.com/Haixing-Hu/nju-thesis)
+- [山东大学](https://github.com/Liam0205/sduthesis)
+- [深圳大学](https://github.com/clinyong/latex-szu)
+- [电子科技大学](https://github.com/shifujun/UESTCthesis)
+- [台湾国立成功大学](https://github.com/wengan-li/ncku-thesis-template-latex)
+- [南京理工大学](https://github.com/jiec827/njustThesis)
+- [暨南大学](https://github.com/ytZhou/JNUMasterThesis)
+- [哈尔滨工业大学](https://github.com/dustincys/PlutoThesis)
+- [浙江大学](https://github.com/ZJU-Awesome/write_with_LaTeX)
+- [华南理工大学](https://github.com/alwintsui/scutthesis)
+- [中国人民大学](https://github.com/ZebinWang/ructhesis)
+- [中国科学院大学](https://github.com/mohuangrui/ucasthesis)
+- [西安电子科技大学](https://github.com/StickCui/XDUthesis-personal)
+- [东南大学](https://github.com/zhimengfan1990/seuthesix)
+- [厦门大学](https://github.com/xiamenwcy/LaTeXFileforXMUThesis)
+- [内蒙古大学](https://github.com/friskit-china/imuthesis)
+- [西安交通大学](https://github.com/Aetf/xjtuthesis)
+- [北京邮电大学](https://github.com/wolfbrother/PhD-Thesis--LaTeX-Template-for-BUPT)
+- [西北工业大学](https://github.com/lrtfm/nputhesis)
+- [大连理工大学](https://github.com/Khaos/DLUTThesis)
+- [四川大学](https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate)
+- [武汉理工大学](https://github.com/tsaoyu/WHUT-LaTeX-bachelor)
+- [西安交通大学](https://github.com/Tedxz/xjtuthesis-x/)
+- [郑州大学](https://github.com/tuxify/zzuthesis)
+- [南方科技大学](https://github.com/SUSTC/sustcthesis)
+
+
 
 ### 期刊编辑模板
 
 - [GB/T 7714-2015 BibTeX Style](https://github.com/zepinglee/gbt-7714-2015)
 
 - [GB/T 7714-2015 BibLaTeX Style](https://github.com/hushidong/biblatex-gb7714-2015)
+
+### beamer模板
+
+ 
 
 ## TeX社区
 
@@ -214,7 +253,7 @@
 如果想要更深入地研究，有下高级资料:
 
 - TeXbook: Knuth 的 TeX 圣经，了解底层 TeX 的原理必读。还有更精简一些的介绍
-文档 TeXbyTopic 和 impatient。
+  文档 TeXbyTopic 和 impatient。
 - source2e: 这是 LaTeX2ε 的实现
 
 LaTeX3 的开发正在进行中，其底层接口已经相对成熟和稳定。xecjk 和 ctex 均是建立 在 LaTeX3 基础上的。关于 LaTeX3 的语法的文档有:
