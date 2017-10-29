@@ -208,9 +208,6 @@
 - [西安交通大学](https://github.com/Tedxz/xjtuthesis-x/)
 - [郑州大学](https://github.com/tuxify/zzuthesis)
 - [南方科技大学](https://github.com/SUSTC/sustcthesis)
-
-
-=======
 - [北京大学](https://github.com/CasperVector/pkuthss)
 - [北京航空航天大学](https://github.com/BHOSC/BUAAthesis)
 - [北京邮电大学](https://github.com/wolfbrother/PhD-Thesis--LaTeX-Template-for-BUPT)
@@ -244,7 +241,6 @@
 - [中国科学技术大学](https://github.com/ustctug/ustcthesis)
 - [中国科学院大学](https://github.com/mohuangrui/ucasthesis)
 - [中国人民大学](https://github.com/ZebinWang/ructhesis)
->>>>>>> origin/master
 
 ### 国外高校模板
 
@@ -288,10 +284,11 @@
 
 关于 BibTeX，应阅读以下文档:
 
-- btxdoc, btxhak: BibTeX 的说明文档
-- btxbst.doc: BibTeX 的三个标准 bst 的源文件(带注释)
-- ttb: 一份详细的介绍
-- natbib: natbib 宏包的文档
+- btxdoc, [btxhak](http://mirrors.ctan.org/biblio/bibtex/contrib/doc/btxhak.pdf): BibTeX 的说明文档
+- [btxbst.doc](https://www.ctan.org/tex-archive/biblio/bibtex/base): BibTeX 的三个标准 bst 的源文件(带注释)
+- ttb: 一份详细的介绍 [中文版本](https://github.com/latexstudio/LaTeXPackages-CN)
+- [natbib](https://www.ctan.org/pkg/natbib): natbib 宏包的文档，[中文版本](https://github.com/latexstudio/LaTeXPackages-CN)
+- [自定义bst文件过程解析](http://yuanjun.farbox.com/latex/latex_bst)
 
 如果想要更深入地研究，有下高级资料:
 
