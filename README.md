@@ -11,7 +11,7 @@
 
 ## TeX发行套装
 
-- TeXLive -(由国际 TeX用户组织TUG发的 TeX 系统，支持不同的操作系统平台。)，推荐使用，适用于Windows，Linux平台[下载地址](http://tug.org/texlive/acquire-netinstall.html)，[种子下载](http://www.latexstudio.net/wp-content/uploads/texlive2016/texlive2016.iso.torrent)。安装教程：[Linux 系统下原版 texlive 2016 的安装与配置](http://www.latexstudio.net/archives/8806)，[TeXLive安装过程演示](http://www.latexstudio.net/archives/2574)，[Windows下的安装与配置](http://www.latexstudio.net/archives/4816)；
+- TeXLive -(由国际 TeX用户组织TUG发的 TeX 系统，支持不同的操作系统平台。)，推荐使用，适用于Windows，Linux平台[下载地址](http://mirrors.ctan.org/systems/texlive/Images/texlive.iso)，[种子下载](http://www.latexstudio.net/wp-content/uploads/texlive/texlive2017-20170524.iso.torrent)。安装教程：[Linux 系统下原版 texlive 2016 的安装与配置](http://www.latexstudio.net/archives/8806)，[TeXLive安装过程演示](http://www.latexstudio.net/archives/2574)，[Windows下的安装与配置](http://www.latexstudio.net/archives/4816)；
 
 - MacTeX -适用于MacOS，[下载地址](http://tug.org/mactex/)，新手下载完整版本，不要下载smaller版本；
 
