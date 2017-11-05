@@ -24,9 +24,11 @@
 ## TeX编辑器
 - WinEdt -收费软件，推荐购买后使用，[官网](http://www.winedt.com)
 - TeXworks -常见的TeX套装都自带这款编辑器，界面比较清爽。
+- TeXmaker-开源免费的编辑器，[首页](http://www.xm1math.net/texmaker/)
+- TeXStudio-开源免费的编辑器，[首页](http://texstudio.sourceforge.net/)
 - TeXShop(Mac版) -MacTeX自带的编辑器，界面比较简洁。
 - TeXstudio -开源免费编辑器，针对日常使用，界面做了友好的设计，推荐使用，[这里下载](http://texstudio.sourceforge.net/)
-- Latexian(Mac版)
+- TeXPad(Mac版)-收费的编辑器，[这里](https://www.texpad.com/)
 
 ## 在线LaTeX平台
 
@@ -35,17 +37,17 @@
 
 ## TeX入门资料
 
-- 一份不太简短的 LaTeX2ε 介绍（[lshort-zh-cn](http://mirrors.ctan.org/info/lshort/chinese/lshort-zh-cn.pdf)） 2016 年新版
-
-- The Not So Short Introduction to LaTeX2ε（[lshort](http://mirrors.ctan.org/info/lshort/english/lshort.pdf)） 经典的入门资料
+- 一份不太简短的 LaTeX2ε 介绍（[lshort中文版](http://mirrors.ctan.org/info/lshort/chinese/lshort-zh-cn.pdf)，[lshort英文版](http://mirrors.ctan.org/info/lshort/english/lshort.pdf)）
 
 - 《LaTeX 入门》 刘海洋, 2013年, 电子工业出版社
 
 - LaTeX 笔记第二版 （[pdf](http://dralpha.altervista.org/zh/tech/lnotes2.pdf)）
 
+- LaTeX for Complete Novices（[pdf](http://www.dickimaw-books.com/latex/novices/novices-report.pdf),[源代码](http://www.dickimaw-books.com/latex/novices/novices-1_4.zip),http://www.dickimaw-books.com/latex/novices/）
+
 ## TeX视频教程
 
-- [淘宝视频教程](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-1145213607.10.IamDUv&id=43823508044)
+- [淘宝视频教程](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-1145213607.10.IamDUv&id=43823508044)-聚集国内外LaTeX达人倾情制作的视频教程。
 - [奥本大学视频教程](http://www.eng.auburn.edu/~reevesj/Classes/ELEC6970-latex/)
 - [2013台湾国立清华大学LaTeX研习视频教程-蔡炎龙](http://www.latexstudio.net/archives/2927)
 
@@ -245,7 +247,7 @@
 ### 国外高校模板
 
 - [剑桥大学](https://github.com/kks32/phd-thesis-template)
- 
+
 ### 期刊编辑模板
 
 - [zepinglee/gbt-7714-2015-bibtex-style](https://github.com/zepinglee/gbt-7714-2015)
