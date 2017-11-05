@@ -49,7 +49,7 @@
 - [奥本大学视频教程](http://www.eng.auburn.edu/~reevesj/Classes/ELEC6970-latex/)
 - [2013台湾国立清华大学LaTeX研习视频教程-蔡炎龙](http://www.latexstudio.net/archives/2927)
 
-##TeX绘图
+## TeX绘图
 
 ### PGF/TikZ
 
@@ -166,13 +166,13 @@
 
 ## TeX辅助工具
 - [EXCEL2LaTeX](http://ctan.org/pkg/excel2latex) - Excel表格转换为LaTeX代码。
+- [Jabref](http://www.jabref.org/)- 妙不可言的免费开源的参考文献管理工具。
 
 ## TeX系列模板
 
 
 ### 国内高校模板
 
-<<<<<<< HEAD
 - [北京大学](http://www.latexstudio.net/archives/3828)
 - [中国科学技术大学](https://github.com/ustctug/ustcthesis)
 - [重庆大学](https://github.com/nanmu42/CQUThesis)
@@ -257,7 +257,8 @@
 
 ### beamer模板
 
- 
+- [LaTeXStudio beamer主题合集](http://www.latexstudio.net/archives/category/tex-slides/beamer-theme-template)
+- [个个都很美的beamer主题列表​​​​](https://github.com/martinbjeldbak/ultimate-beamer-theme-list)
 
 ## TeX社区
 
