@@ -266,10 +266,6 @@
 
 - [TeX - LaTeX Stack Exchange](http://tex.stackexchange.com)
 
-- [CTEX 社区](http://bbs.ctex.org/)
-
-- [知乎 TeX 话题](https://www.zhihu.com/topic/19586707/hot)
-
 - [LaTeX 工作室](http://www.latexstudio.net)
 
 ## 开发者资料
