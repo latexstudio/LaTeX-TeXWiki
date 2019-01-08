@@ -6,7 +6,7 @@
 - 资源站点：[LaTeX工作室](http://www.latexstudio.net)
 - 公众号：latex2015 
 
-![avatar](http://www.latexstudio.net/wp-content/themes/dux/img/gongzhonghao2.jpg)
+![avatar](http://pics.latexstudio.net/wp-content/themes/dux/img/gongzhonghao2.jpg)
 
 
 ## TeX发行套装
