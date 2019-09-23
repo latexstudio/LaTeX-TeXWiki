@@ -2,12 +2,18 @@
 
 ## 项目交流
 
-- 交流QQ群：91940767，[![avatar](http://pub.idqqimg.com/wpa/images/group.png)](http://shang.qq.com/wpa/qunwpa?idkey=5e839b814b0bb62d58ee283636597c121e20bc370fea6f3e0f4632f8d32cf9c2);
+- 交流QQ群：1群：91940767（已满）2群：478023327  3群：640633524;
 - 资源站点：[LaTeX工作室](http://www.latexstudio.net)
-- 公众号：latex2015 
+- 公众号：latex工作室    
 
-![avatar](http://pics.latexstudio.net/wp-content/themes/dux/img/gongzhonghao2.jpg)
+![avatar](https://pics.latexstudio.net/wp-content/themes/dux/img/gongzhonghao5.jpg)
 
+
+> 公众号回复：免费视频  或者 入门电子书   可以获取 7 G 的学习资料，精挑细选，入门必读，加快您的入门进度。
+
+## 问答社区
+
+![https://wenda.latexstudio.net](https://wenda.latexstudio.net) 这里是我们精心大家的学习平台与问题交流平台, 希望我们的 TeX 用户可以在这里尽情玩耍.
 
 ## TeX发行套装
 
