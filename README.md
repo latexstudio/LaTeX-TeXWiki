@@ -13,7 +13,7 @@
 
 ## 问答社区
 
-[https://wenda.latexstudio.net](https://wenda.latexstudio.net) 这里是我们精心大家的学习平台与问题交流平台, 希望我们的 TeX 用户可以在这里尽情玩耍.
+[https://wenda.latexstudio.net](https://wenda.latexstudio.net) 这里是我们精心搭建开发的交流平台, 希望 TeX 用户们可以在这里尽情玩耍.
 
 ## TeX发行套装
 
